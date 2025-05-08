@@ -5,7 +5,7 @@ The HR Analytics Dashboard is designed to provide insights into key workforce me
 
 ## Dataset Used 
 - <a href="https://github.com/pravinwa12/HR-Analytics-Dashboard/blob/main/HR%20Data.xlsx">Dataset</a>
-##### Tools Used :
+#### Tools Used :
 MS-Excel, Tableau, etc.
 
 ## Key Performance Indicators (KPIs)
