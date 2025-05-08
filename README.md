@@ -2,22 +2,23 @@
 
 ## Overview
 The HR Analytics Dashboard is designed to provide insights into key workforce metrics such as employee attrition, departmental distribution, age demographics, education background, and job satisfaction levels. It allows HR professionals to track performance, identify high-risk attrition zones, and make data-driven decisions to improve employee retention.
+Tools Used : MS-Excel, Tableau, etc.
 
 ## Dataset Used 
 - <a href="https://github.com/pravinwa12/HR-Analytics-Dashboard/blob/main/HR%20Data.xlsx">Dataset</a>
 
 ## Key Performance Indicators (KPIs)
-#### Employee Count	
+#### - Employee Count	
 Total number of employees in the organization
-#### Attrition Count	
+#### - Attrition Count	
 Total number of employees who left
-#### Attrition Rate	
+#### - Attrition Rate	
 Percentage of total employees who left
-#### Active Employees
+#### - Active Employees
 Current number of active employees
-#### Average Age	
+#### - Average Age	
 Mean age of the workforce
-#### Attrition by Gender	
+#### - Attrition by Gender	
 Shows gender distribution in attrition
 
 ## Dashboard Review (Using Tableau Elements)
